@@ -1,3 +1,4 @@
+
 # Driving test management system
 ## Introduction
 The software is designed to allow a driving student to register for the test without being dependent on their teacher.
@@ -5,7 +6,7 @@ The student selects the date, time, and starting position at which he wants the 
 
 ## Description of screens and system activity
 ### Screen Flow Diagram
-![enter image description here](https://github.com/nmanor/Driving-test-management-system-2019/blob/master/Screenshots/Screen%20flow.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Screen%20flow.png?raw=true)
 ### The main screen
 The main screen is divided into 3 areas:
 
@@ -13,7 +14,7 @@ The main screen is divided into 3 areas:
 2. The tester area, where you can register as a new tester or login as a tester already registered in the system.
 3. The system worker area, where you can connect with a pre-recognized password as a system employee who has control over everything.
 Both login as a student and login as examiner, you can view the password itself (instead of the ● marks) by pressing the "show password" button. In addition, you can login by pressing the enter key and not necessarily by pressing the "sign in" button).
-![enter image description here](https://github.com/nmanor/Driving-test-management-system-2019/blob/master/Screenshots/Main%20Screen.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Main%20Screen.png?raw=true)
 
 ### Student screen
 The student screen can be in one of two modes:
@@ -24,21 +25,87 @@ The student screen can be in one of two modes:
 
 This screen is the same for a student who has passed a theory test and for a student who has not yet passed. In this screen the student can update his or her personal details and even delete himself from the system.
 The student can enter the number of lessons he or she does or download and upload by pressing the + and - buttons.
-![enter image description here](https://github.com/nmanor/Driving-test-management-system-2019/blob/master/Screenshots/Update%20info.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Update%20info.png?raw=true)
 #### "Theory Test" tab
 This screen allows the student to perform a theory test based on predefined random theory questions stored in the system, for a limited time. If the student has passed, he or she will be able to register immediately for the test and if he does not have to wait 24 hours until the next test is taken.
 The student can move from question to question, or skip to a specific question by clicking on the question number on the top left of the screen (in the second image).
-![enter image description here](https://github.com/nmanor/Driving-test-management-system-2019/blob/master/Screenshots/Theary%20test%201.png?raw=true)
-![enter image description here](https://github.com/nmanor/Driving-test-management-system-2019/blob/master/Screenshots/Theary%20test%202.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Theary%20test%201.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Theary%20test%202.png?raw=true)
 #### "Register for Test" tab
 In this screen (which appears only in a student who has passed theory) you can register for the test according to the constraints chosen by the student. At the end of the process, the student will receive an email detailing the test details and will be offered the option to add the test to their Google Calendar with all the details of the test along with the date of the test and other information.
 By clicking the "Set the start point as my home" button, the student can set the address as his or her home address with which he or she is registered, rather than typing it himself.
-![enter image description here](https://github.com/nmanor/Driving-test-management-system-2019/blob/master/Screenshots/Test%20registration.png?raw=true)
-![enter image description here](https://github.com/nmanor/Driving-test-management-system-2019/blob/master/Screenshots/Test%20registration%20calander.png?raw=true)
-![enter image description here](https://github.com/nmanor/Driving-test-management-system-2019/blob/master/Screenshots/Test%20registration%20email.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Test%20registration.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Test%20registration%20calander.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Test%20registration%20email.png?raw=true)
 #### The "Your Tests" tab
 This screen is divided into 3 sections:
 1. Tests where the student has passed, where he can view all the details of all the tests on all types of vehicles in which he has passed a test. A mouse pass on a test that the student passed will have a button that allows him to run an algorithm that creates a license fee specifically tailored to him and containing his identity number, his name, the type of vehicle he passed the test and the expiration date of the fee, which is set exactly 3 months from the date he passed. test. With this bag, the student can go to the mail and pay it, much like a real toll. The resulting fee looks like this:
-![enter image description here](https://github.com/nmanor/Driving-test-management-system-2019/blob/master/Screenshots/Fee.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Fee.png?raw=true)
 2. The tests where the student fails. Same as the test view he passed but will show him the details of the tests he failed.
 3. Future Tests, where the tests that have not yet been and / or the tests on which the examiner has not yet entered the test score will be displayed, and delete a test if he wishes to cancel it.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/User%20tests.png?raw=true)
+
+### Tester screen
+#### "Update details" tab
+In this screen, the examiner can update his personal details and even delete himself from the system.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Update%20tester%20info.png?raw=true)
+
+#### "Weekly System" tab
+On this screen, the examiner can watch his weekly hours system, and switch between the different weeks.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Weekly%20schedule.png?raw=true)
+If the student erased himself or a malfunction occurred, the red rectangle tester will be shown.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Red%20rectangle.png?raw=true)
+#### "Your Tests" tab
+On this screen, the examiner can view tests that are linked to them in a sorted way:
+1. Existing tests that must be graded.
+2. Tests on which he has already scored in the past. It can even run such a test (in case of an appeal).
+3. Future tests that have not yet been deleted can be deleted in case of illness and the like.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Tester%20tests.png?raw=true)
+
+### System workers screen
+#### "Student View" tab
+In this screen, the employee can view the list of all students stored in the system and even search for students by first name, last name or identity number (sorted search will appear immediately). By double-clicking on the student's name, you can even log in as the same student, and watch his / her screen that he sees when connecting. For example, if the student forgets the password, the system employee can create a new password for him directly from his screen.
+When searching, you can click the small X button on the right side of the search bar to cancel the search.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Student%20tab.png?raw=true)
+
+#### "Test View" tab
+In this screen, the employee can view the list of all testers stored in the system and even search for testers by first name, last name or identity number (sorted search will appear immediately). By double clicking on the tester name you can even connect as the same tester, and watch his screen which he sees when you log in. For example, if the tester forgets the password, the system employee can create a new password for him directly from his screen.
+When searching, you can click the small X button on the right side of the search bar to cancel the search.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Testers%20tab.png?raw=true)
+
+#### "Queries and Statistics" tab
+On this screen, the employee can view various graphs that show him information about the data stored in the system. Each graph below has the information in the form of a tree, so you can see, for example, all the information of a student attending a "Wheels" school from the graph of dividing students by schools.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Statistics%20tab.png?raw=true)
+
+#### "Settings" tab
+This screen is divided into 2 parts:
+1. System Value Definitions, where the employee can change and view different values that affect the behavior of the system, such as the minimum tester age, the maximum tester age, and the number of questions in a theory test.
+2. The theory questions, where the employee can watch questions, add questions and delete some questions at the same time. You can see if a specific question contains an image, and see the correct answer for that question.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Settings%20tab.png?raw=true)
+
+### More screens
+#### Add student screen
+This screen appears when you click on the student's enrollment button on the main screen, where the student can enter their personal details and save themselves in the system. At the end of the process, the student will receive an e-mail stating that he / she has successfully registered with his / her personal password, in addition the system will encrypt the student's personal password and store it in an encoded form so that no password can be viewed from an external source (eg via the XML file containing all students).
+For convenience, we chose not to check the correctness of the identity number entered by the user in order to allow ourselves and the examiner to enter a simple identity number without having to enter a real number. However, the identity number must contain exactly 9 digits.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/New%20student.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/New%20student%20email.png?raw=true)
+
+#### Tester Add Screen
+This screen appears when you press the tester's enrollment button on the main screen, where the tester can enter his personal information and save himself in the system. Upon enrollment, the system encodes the tester's personal password and stores it in a coded way, so that no password can be viewed from an external source (for example, through the XML file containing all the testers).
+In this screen, the examiner can mark the hours he works by using an incremental table where he marks which days and what hours he works and when not, by clicking on the appropriate hour.
+For convenience, we chose not to check the correctness of the identity number entered by the user in order to allow ourselves and the examiner to enter a simple identity number without having to enter a real number. However, the identity number must contain exactly 9 digits.
+Theoretically, if the software was actually working in the market, of course, it is necessary to add a brief check and make sure that the user's registered record is indeed a test taker's in the Licensing Office's internal examiner database, in order to prevent users who are not officially licensing examiners from registering .
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/New%20tester.png?raw=true)
+
+#### Test update screen
+This screen allows the tester to rate the student according to their performance in the test. In each criterion, the examiner can mark the student's level on the same metric (poor, reasonable or good) and receive an automatic recommendation from the system according to the algorithm whether or not to pass the student.
+Access to this screen is done by moving a mouse on a test screen inside the examiner's screen and pressing the round edit button, if the test allows it (so the test cannot be taken yet).
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Update%20test%201.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/Update%20test%202.png?raw=true)
+
+#### Add test screen
+On this screen, the system employee can add a theory question to the repository by clicking the button
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/New%20question.png?raw=true)
+The insert is made by entering the question itself, the correct answer, and 3 incorrect answers. She returned to the picture.
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/New%20question%20edit%201.png?raw=true)
+![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/New%20question%20edit%202.png?raw=true)
