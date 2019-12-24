@@ -113,11 +113,8 @@ The insert is made by entering the question itself, the correct answer, and 3 in
 
 
 ## Appendices
-
-##### This is a partial explanation of this appendix. For a more detailed explanation in Hebrew [click here](Screenshots/%D7%AA%D7%99%D7%A7%20%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98.pdf).
- Overall the system stores all the data it uses in 5 different XML files.
-
 ### Appendix 1 - The XML files of the data
+##### This is a partial explanation of this appendix. For a more detailed explanation in Hebrew [click here](Screenshots/%D7%AA%D7%99%D7%A7%20%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98.pdf).
 Overall the system stores all the data it uses in 5 different XML files.
 
 #### Student file - TraineePath
@@ -288,8 +285,9 @@ public  struct  Criterion
 	// Override the print function
 	public  override  string ToString()
 	{ 
-		return  "בקריטריון " + Description + " קיבל  התלמיד  ציון  של " + ((int)Score + 1) + "/3"; }
+		return  "בקריטריון " + Description + " קיבל  התלמיד  ציון  של " + ((int)Score + 1) + "/3"; 
 	}
+}
 ```
 In addition, the project contains 2 enum variables that we created to facilitate system programming, apart from the basic enum required in the project conditions.
 An enum variable named Thery_status that reflects the student's condition in terms of the theory test as one of 3 states:
