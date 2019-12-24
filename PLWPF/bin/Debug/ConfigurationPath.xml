@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Timer_theory>30</Timer_theory>
+  <Amount_questions>4</Amount_questions>
+  <Fail_theory>1</Fail_theory>
+  <Minimun_lessons>20</Minimun_lessons>
+  <Maximum_tester_age>75</Maximum_tester_age>
+  <Minimum_tester_age>40</Minimum_tester_age>
+  <Minimum_Trainee_age>16</Minimum_Trainee_age>
+  <Time_between_tests>7</Time_between_tests>
+  <Test_serial_number>11</Test_serial_number>
+  <Pass_test>0</Pass_test>
+  <Defualt_distance>5</Defualt_distance>
+  <Worker_password>worker</Worker_password>
+</Configuration>

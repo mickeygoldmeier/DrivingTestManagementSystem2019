@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tests>
+  <Test>
+    <Test_number>00000008</Test_number>
+    <Tester_id>123456789</Tester_id>
+    <Traniee_id>123456789</Traniee_id>
+    <Test_time>
+      <Year>2019</Year>
+      <Month>1</Month>
+      <Day>24</Day>
+      <Hour>11</Hour>
+    </Test_time>
+    <Address>
+      <City>ירושלים</City>
+      <Building_number>5</Building_number>
+      <Street>הלר</Street>
+    </Address>
+    <Criteria_list>
+      <Criterion>
+        <Score>2</Score>
+        <Description>ציות לרמזורים</Description>
+      </Criterion>
+      <Criterion>
+        <Score>2</Score>
+        <Description>התיחסות להולכי רגל</Description>
+      </Criterion>
+      <Criterion>
+        <Score>2</Score>
+        <Description>השתלבות בכיכרות</Description>
+      </Criterion>
+      <Criterion>
+        <Score>2</Score>
+        <Description>איתות</Description>
+      </Criterion>
+      <Criterion>
+        <Score>2</Score>
+        <Description>קצב נסיעה</Description>
+      </Criterion>
+      <Criterion>
+        <Score>0</Score>
+        <Description>התייחסות לתמרורים</Description>
+      </Criterion>
+    </Criteria_list>
+    <Grade>True</Grade>
+    <Tester_comment>נהג מצוין. כל הכבוד</Tester_comment>
+    <Student_car_Type>0</Student_car_Type>
+  </Test>
+  <Test>
+    <Test_number>00000009</Test_number>
+    <Tester_id>123456789</Tester_id>
+    <Traniee_id>987654321</Traniee_id>
+    <Test_time>
+      <Year>2019</Year>
+      <Month>1</Month>
+      <Day>27</Day>
+      <Hour>14</Hour>
+    </Test_time>
+    <Address>
+      <City>ירושלים</City>
+      <Building_number>15</Building_number>
+      <Street>שמגר</Street>
+    </Address>
+    <Criteria_list />
+    <Grade>false</Grade>
+    <Tester_comment />
+    <Student_car_Type>0</Student_car_Type>
+  </Test>
+  <Test>
+    <Test_number>0000000B</Test_number>
+    <Tester_id>888888888</Tester_id>
+    <Traniee_id>234567899</Traniee_id>
+    <Test_time>
+      <Year>2019</Year>
+      <Month>1</Month>
+      <Day>27</Day>
+      <Hour>13</Hour>
+    </Test_time>
+    <Address>
+      <City>בית שמש</City>
+      <Building_number>3</Building_number>
+      <Street>נחל נועם</Street>
+    </Address>
+    <Criteria_list />
+    <Grade>false</Grade>
+    <Tester_comment />
+    <Student_car_Type>0</Student_car_Type>
+  </Test>
+</Tests>

@@ -1,0 +1,168 @@
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\App.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\BE.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\BL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\DAL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\DS.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\BL.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\DAL.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\DS.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\App.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\BE.dll
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\BL.dll
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\DAL.dll
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\DS.dll
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\BE.pdb
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\BL.pdb
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\bin\Debug\DS.pdb
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\App.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\App.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\StudentRegistration.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\StudentRegistration.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\StudentRegistration.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\StudentRegistration.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TesterRegistration.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TesterRegistration.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TesterRegistration.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TesterRegistration.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\StudentWindow.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\StudentWindow.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\StudentWindow.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\StudentWindow.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TestUserControl.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TestUserControl.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TestUserControl.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TestUserControl.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\BE.dll
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\BL.dll
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\DAL.dll
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\DS.dll
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\BE.pdb
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\BL.pdb
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\DAL.pdb
+C:\Users\user\Google Drive\MiniProject\PLWPF\bin\Debug\DS.pdb
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\StudentRegistration.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\StudentWindow.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TesterRegistration.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TestUserControl.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\App.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\App.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\StudentRegistration.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\StudentWindow.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TesterRegistration.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TestUserControl.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\UpdateTestWindow.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\UpdateTestWindow.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TesterWindow.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\UpdateTestWindow.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TesterWindow.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\UpdateTestWindow.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\ScheduleComponent.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\ScheduleComponent.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\ScheduleComponent.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\ScheduleComponent.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\WorkerWindow.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\WorkerWindow.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\WorkerWindow.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\WorkerWindow.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\ChartComponent.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\ChartComponent.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\ChartComponent.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\ChartComponent.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\ChartComponent.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\ScheduleComponent.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\WorkerWindow.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\ChartComponent.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\ScheduleComponent.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\WorkerWindow.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TheoryQuestionUserControl.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TheoryTestUserControl.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TheoryQuestionUserControl.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TheoryTestUserControl.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TheoryQuestionUserControl.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TheoryTestUserControl.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TheoryQuestionUserControl.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\TheoryTestUserControl.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TheoryQuestionUserControl.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\TheoryTestUserControl.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TheoryQuestionUserControl.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\TheoryTestUserControl.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\NewQuestionWindow.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\NewQuestionWindow.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\NewQuestionWindow.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\NewQuestionWindow.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\NewQuestionWindow.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\NewQuestionWindow.baml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\LicenseFee.g.cs
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\PLWPF\obj\Debug\LicenseFee.baml
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\LicenseFee.g.cs
+C:\Users\Mickey\Google Drive\MiniProject\PLWPF\obj\Debug\LicenseFee.baml
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\LicenseFee.g.cs
+C:\Users\user\Google Drive\MiniProject\PLWPF\obj\Debug\LicenseFee.baml

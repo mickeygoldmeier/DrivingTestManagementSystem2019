@@ -1,0 +1,39 @@
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Debug\BL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Debug\BL.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Debug\BE.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Debug\DAL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Debug\DS.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Debug\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Debug\DAL.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Debug\DS.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Debug\BL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Debug\BL.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Debug\BL.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Debug\BL.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Debug\BE.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Debug\DAL.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Debug\DS.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Debug\BE.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Debug\DAL.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Debug\DS.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Debug\BL.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Debug\BL.pdb
+C:\Users\user\Google Drive\MiniProject\BL\bin\Debug\BL.dll
+C:\Users\user\Google Drive\MiniProject\BL\bin\Debug\BL.pdb
+C:\Users\user\Google Drive\MiniProject\BL\bin\Debug\BE.dll
+C:\Users\user\Google Drive\MiniProject\BL\bin\Debug\DAL.dll
+C:\Users\user\Google Drive\MiniProject\BL\bin\Debug\DS.dll
+C:\Users\user\Google Drive\MiniProject\BL\bin\Debug\BE.pdb
+C:\Users\user\Google Drive\MiniProject\BL\bin\Debug\DAL.pdb
+C:\Users\user\Google Drive\MiniProject\BL\bin\Debug\DS.pdb
+C:\Users\user\Google Drive\MiniProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\MiniProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\MiniProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\user\Google Drive\MiniProject\BL\obj\Debug\BL.dll
+C:\Users\user\Google Drive\MiniProject\BL\obj\Debug\BL.pdb

@@ -1,0 +1,26 @@
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Release\BL.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Release\BL.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Release\BE.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Release\DAL.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Release\DS.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Release\BE.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Release\DAL.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BL\bin\Release\DS.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Release\BL.csprojAssemblyReference.cache
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Release\BL.csproj.CopyComplete
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Release\BL.dll
+C:\Users\Mickey\Google Drive\MiniProject\BL\obj\Release\BL.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Release\BL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Release\BL.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Release\BE.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Release\DAL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Release\DS.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Release\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Release\DAL.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\bin\Release\DS.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Release\BL.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Release\BL.csproj.CopyComplete
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Release\BL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BL\obj\Release\BL.pdb

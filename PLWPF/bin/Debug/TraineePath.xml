@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trainees>
+  <Traniee>
+    <ID>987654321</ID>
+    <Last_name>בוזגלו</Last_name>
+    <First_name>חנה</First_name>
+    <Birth_date>
+      <Day>20</Day>
+      <Month>8</Month>
+      <Year>2000</Year>
+    </Birth_date>
+    <Gender>0</Gender>
+    <Phone>087654673</Phone>
+    <Address>
+      <City>ירושלים</City>
+      <Building_number>15</Building_number>
+      <Street>שמגר</Street>
+    </Address>
+    <Pass_theory>True</Pass_theory>
+    <Last_theory>22/01/2019 13:18:56</Last_theory>
+    <Gear_used>0</Gear_used>
+    <Learned>0</Learned>
+    <Driving_school>לומדים ונהנים</Driving_school>
+    <Teachers_name>עומרי</Teachers_name>
+    <Num_of_classes>20</Num_of_classes>
+    <Password>B7sHVwfzB48HKw==</Password>
+    <Email>mmgoldmeier@gmail.com</Email>
+  </Traniee>
+  <Traniee>
+    <ID>234567899</ID>
+    <Last_name>גולדמאיר</Last_name>
+    <First_name>נעמה</First_name>
+    <Birth_date>
+      <Day>15</Day>
+      <Month>11</Month>
+      <Year>2000</Year>
+    </Birth_date>
+    <Gender>0</Gender>
+    <Phone>0987654321</Phone>
+    <Address>
+      <City>בית שמש</City>
+      <Building_number>3</Building_number>
+      <Street>נחל נועם</Street>
+    </Address>
+    <Pass_theory>True</Pass_theory>
+    <Last_theory>25/01/2019 12:22:10</Last_theory>
+    <Gear_used>1</Gear_used>
+    <Learned>0</Learned>
+    <Driving_school>בנות מלכה</Driving_school>
+    <Teachers_name>יפה</Teachers_name>
+    <Num_of_classes>20</Num_of_classes>
+    <Password>B7sHVwfzB48HKw==</Password>
+    <Email>moshe@gmail.com</Email>
+  </Traniee>
+  <Traniee>
+    <ID>111111111</ID>
+    <Last_name>יצחק</Last_name>
+    <First_name>אברהם</First_name>
+    <Birth_date>
+      <Day>2</Day>
+      <Month>3</Month>
+      <Year>2000</Year>
+    </Birth_date>
+    <Gender>1</Gender>
+    <Phone>1234567890</Phone>
+    <Address>
+      <City>ירושלים</City>
+      <Building_number>3</Building_number>
+      <Street>יפו</Street>
+    </Address>
+    <Pass_theory>False</Pass_theory>
+    <Last_theory>2019-01-03T19:02:21</Last_theory>
+    <Gear_used>0</Gear_used>
+    <Learned>0</Learned>
+    <Driving_school>בנות מלכה</Driving_school>
+    <Teachers_name>משה</Teachers_name>
+    <Num_of_classes>34</Num_of_classes>
+    <Password>B7sHVwfzB48HKw==</Password>
+    <Email>assface@gmail.com</Email>
+  </Traniee>
+  <Traniee>
+    <ID>555555555</ID>
+    <Last_name>יצחקי</Last_name>
+    <First_name>יצחק</First_name>
+    <Birth_date>
+      <Day>15</Day>
+      <Month>8</Month>
+      <Year>1997</Year>
+    </Birth_date>
+    <Gender>1</Gender>
+    <Phone>0524589647</Phone>
+    <Address>
+      <City>ירושלים</City>
+      <Building_number>15</Building_number>
+      <Street>הועד הלאומי</Street>
+    </Address>
+    <Pass_theory>False</Pass_theory>
+    <Last_theory>2019-02-03T09:17:59</Last_theory>
+    <Gear_used>0</Gear_used>
+    <Learned>0</Learned>
+    <Driving_school>גלגלים</Driving_school>
+    <Teachers_name>יפה</Teachers_name>
+    <Num_of_classes>25</Num_of_classes>
+    <Password>B7sHVwfzB48HKw==</Password>
+    <Email>natanmanor@gmail.com</Email>
+  </Traniee>
+</Trainees>

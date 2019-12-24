@@ -1,0 +1,27 @@
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DS\bin\Debug\DS.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DS\bin\Debug\DS.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DS\bin\Debug\BE.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DS\bin\Debug\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DS\obj\Debug\DS.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DS\obj\Debug\DS.pdb
+C:\Users\Mickey\Google Drive\MiniProject\DS\bin\Debug\DS.dll
+C:\Users\Mickey\Google Drive\MiniProject\DS\bin\Debug\DS.pdb
+C:\Users\Mickey\Google Drive\MiniProject\DS\bin\Debug\BE.dll
+C:\Users\Mickey\Google Drive\MiniProject\DS\bin\Debug\BE.pdb
+C:\Users\Mickey\Google Drive\MiniProject\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\Mickey\Google Drive\MiniProject\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Google Drive\MiniProject\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\Mickey\Google Drive\MiniProject\DS\obj\Debug\DS.dll
+C:\Users\Mickey\Google Drive\MiniProject\DS\obj\Debug\DS.pdb
+C:\Users\user\Google Drive\MiniProject\DS\bin\Debug\DS.dll
+C:\Users\user\Google Drive\MiniProject\DS\bin\Debug\DS.pdb
+C:\Users\user\Google Drive\MiniProject\DS\bin\Debug\BE.dll
+C:\Users\user\Google Drive\MiniProject\DS\bin\Debug\BE.pdb
+C:\Users\user\Google Drive\MiniProject\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\MiniProject\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\MiniProject\DS\obj\Debug\DS.csproj.CopyComplete
+C:\Users\user\Google Drive\MiniProject\DS\obj\Debug\DS.dll
+C:\Users\user\Google Drive\MiniProject\DS\obj\Debug\DS.pdb

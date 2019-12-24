@@ -1,0 +1,126 @@
+﻿<UserControl x:Class="PLWPF.TheoryTestUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:PLWPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="Transparent">
+        <TextBlock Name="text_hold" HorizontalAlignment="Center" FlowDirection="RightToLeft" TextAlignment="Center" VerticalAlignment="Top" Margin="0,30,0,0" FontSize="30" Visibility="Collapsed"/>
+
+        <StackPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Name="before_test" Visibility="Collapsed">
+            <TextBlock HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,30,70,0" Text="הוראות" FontSize="25" FontWeight="Bold"/>
+            <TextBlock TextAlignment="Right" Name="txtblk_rules" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,10,100,0" FontSize="20"/>
+            <Button Content="התחל מבחן" FontSize="20" HorizontalAlignment="Center" Margin="0,30,0,10" VerticalAlignment="Bottom" Height="50" Width="150" Click="Start_theory_test_Click"/>
+        </StackPanel>
+
+        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Name="test_view" Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            
+
+            <StackPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" Margin="20, 20, 20, 10" Text="עבור לשאלה" FontSize="25"/>
+                <Grid Name="check_box_grid" Margin="20, 5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </StackPanel>
+            <StackPanel Grid.Column="0" Grid.Row="1">
+                <TextBlock Text="זמן שנותר:" HorizontalAlignment="Center" FlowDirection="RightToLeft" FontSize="15" Margin="-5"/>
+                <TextBlock Name="timerTextBlock" Margin="20, 10" Grid.Row="1" VerticalAlignment="Top" HorizontalAlignment="Center" Text="" FontSize="25">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Style.Triggers>
+                            <Trigger Property="Text" Value="00:10">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:09">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:08">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:07">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:06">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:05">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:04">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:03">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:02">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:01">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                            <Trigger Property="Text" Value="00:00">
+                                <Setter Property="Foreground" Value="Red"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+            <Button VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="20, 10" Content="סיים מבחן" FontSize="20" Height="auto" Width="auto" Click="EndButton_Click"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <Button Name="next_question_button" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="7" FontSize="25" Height="auto" Width="auto" Click="Next_Question_Click">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <materialDesign:PackIcon Kind="ArrowLeft" VerticalAlignment="Center" Height="30" Width="30" Margin="0, 0, 10, 0"/>
+                        <TextBlock Text="לשאלה הבאה" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+                <Button Name="previous_question_button" Grid.Row="1" Grid.Column="1" HorizontalAlignment="center" VerticalAlignment="Center" Margin="7" FontSize="25" Height="auto" Width="auto" Click="Previous_Question_Click">
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                        <TextBlock Text="לשאלה הקודמת" VerticalAlignment="Center"/>
+                        <materialDesign:PackIcon Kind="ArrowRight" VerticalAlignment="Center" Height="30" Width="30" Margin="10, 0, 0, 0"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </Grid>
+
+        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Name="end_test_view" Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="6*"/>
+                <RowDefinition Height="4*"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <TextBlock Name="text_result" FlowDirection="RightToLeft" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,20,0,0" FontSize="50"/>
+                <TextBlock Name="text_points" FlowDirection="RightToLeft" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="35"/>
+                <TextBlock Name="text_postponement" FlowDirection="RightToLeft" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30" Text="תוכל לקחת את המבחן שוב בעוד 24 שעות" Visibility="Collapsed"/>
+                <Button Name="refresh_button" Content="עדכן משתמש" Visibility="Collapsed" Click="Refresh_Click" Width="250"/>
+            </StackPanel>
+
+            <DataGrid FlowDirection="RightToLeft" HorizontalAlignment="Center" Grid.Row="1" IsReadOnly="True" Margin="10" x:Name="Wrong_list_view" CanUserAddRows="False" AutoGenerateColumns="False" Background="#00000000">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Question}" Header="שאלה"/>
+                    <DataGridTextColumn Binding="{Binding Student_answer}" Header="תשובתך"/>
+                    <DataGridTextColumn Binding="{Binding Answer}" Header="התשובה הנכונה"/>
+                </DataGrid.Columns> >
+            </DataGrid>
+        </Grid>
+    </Grid>
+</UserControl>

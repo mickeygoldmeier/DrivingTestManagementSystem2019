@@ -1,0 +1,33 @@
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Debug\BE.dll
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Debug\BE.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Debug\BE.dll
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Debug\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Debug\BE.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Debug\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Debug\BE.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Debug\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Debug\MaterialDesignColors.dll
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\user\Google Drive\MiniProject\BE\bin\Debug\BE.dll
+C:\Users\user\Google Drive\MiniProject\BE\bin\Debug\BE.pdb
+C:\Users\user\Google Drive\MiniProject\BE\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Google Drive\MiniProject\BE\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Google Drive\MiniProject\BE\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Google Drive\MiniProject\BE\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Google Drive\MiniProject\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\MiniProject\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\MiniProject\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\user\Google Drive\MiniProject\BE\obj\Debug\BE.dll
+C:\Users\user\Google Drive\MiniProject\BE\obj\Debug\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Debug\BE.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+C:\Users\Mickey\Google Drive\MiniProject\DAL\bin\Release\DAL.dll
+C:\Users\Mickey\Google Drive\MiniProject\DAL\bin\Release\DAL.pdb
+C:\Users\Mickey\Google Drive\MiniProject\DAL\bin\Release\BE.dll
+C:\Users\Mickey\Google Drive\MiniProject\DAL\bin\Release\DS.dll
+C:\Users\Mickey\Google Drive\MiniProject\DAL\bin\Release\BE.pdb
+C:\Users\Mickey\Google Drive\MiniProject\DAL\bin\Release\DS.pdb
+C:\Users\Mickey\Google Drive\MiniProject\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\Mickey\Google Drive\MiniProject\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Google Drive\MiniProject\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Mickey\Google Drive\MiniProject\DAL\obj\Release\DAL.dll
+C:\Users\Mickey\Google Drive\MiniProject\DAL\obj\Release\DAL.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\bin\Release\DAL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\bin\Release\DAL.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\bin\Release\BE.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\bin\Release\DS.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\bin\Release\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\bin\Release\DS.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\obj\Release\DAL.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\DAL\obj\Release\DAL.pdb

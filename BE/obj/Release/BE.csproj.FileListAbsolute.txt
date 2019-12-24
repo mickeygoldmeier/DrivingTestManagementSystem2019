@@ -1,0 +1,22 @@
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Release\BE.dll
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Release\BE.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Release\MaterialDesignColors.dll
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mickey\Google Drive\MiniProject\BE\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Release\BE.csprojAssemblyReference.cache
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Release\BE.csproj.CoreCompileInputs.cache
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Release\BE.csproj.CopyComplete
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Release\BE.dll
+C:\Users\Mickey\Google Drive\MiniProject\BE\obj\Release\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Release\BE.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Release\BE.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Release\MaterialDesignColors.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Release\BE.csprojAssemblyReference.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Release\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Release\BE.csproj.CopyComplete
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Release\BE.dll
+C:\Users\user\Google Drive\לימודים\מיני פרויקט בחלונות 2019\MiniProject\BE\obj\Release\BE.pdb

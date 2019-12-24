@@ -1,0 +1,130 @@
+﻿<Window x:Name="win_main_window" x:Class="PLWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        FontFamily="/PLWPF;component/Fonts/#Heebo"
+        WindowState="Maximized"
+        Title="מסך כניסה והתחברות" Height="632" Width="800"
+        Icon="images/icon.ico">
+
+    <Window.Resources>
+        <Storyboard x:Key="fade_out">
+            <DoubleAnimation Storyboard.TargetName="win_main_window" Storyboard.TargetProperty="Opacity" From="1" To="0.2" Duration="00:00:0.7"/>
+        </Storyboard>
+        <Storyboard x:Key="fade_in">
+            <DoubleAnimation Storyboard.TargetName="win_main_window" Storyboard.TargetProperty="Opacity" From="0.2" To="1" Duration="00:00:0.7"/>
+        </Storyboard>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="images/main_window_back.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <StackPanel>
+            <TextBlock Text="ברוכים הבאים" TextAlignment="Center" FontSize="40" Foreground="White" FontWeight="Bold">
+                <TextBlock.Effect>
+                    <DropShadowEffect Direction="270" ShadowDepth="3"/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <TextBlock Margin="0, -20, 0, 10" Text="אנא בחר צורת התחברות" TextAlignment="Center" FontSize="35" Foreground="White" FontWeight="Bold">
+                <TextBlock.Effect>
+                    <DropShadowEffect Direction="270" ShadowDepth="3"/>
+                </TextBlock.Effect>
+            </TextBlock>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <StackPanel>
+                    <StackPanel>
+                        <TextBlock Text="בוחן" TextAlignment="Center" FontSize="30" Foreground="White" FontWeight="Bold">
+                            <TextBlock.Effect>
+                                <DropShadowEffect Direction="270" ShadowDepth="3"/>
+                            </TextBlock.Effect>
+                        </TextBlock>
+                        <Grid>
+                            <materialDesign:Card Padding="16" Margin="16, 80, 16, 16" Background="#E6FFFFFF">
+                                <StackPanel HorizontalAlignment="Center" Width="250">
+                                    <Rectangle Height="50"/>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0">
+                                        <TextBox KeyDown="Sign_in_tester_enter" FlowDirection="RightToLeft" x:Name="tester_id"  MaxLength="9" materialDesign:HintAssist.IsFloating="True" materialDesign:HintAssist.Hint="מספר זהות" Margin="0, 0, 10, 0" MinWidth="200" TextAlignment="Right"/>
+                                        <Image Source="images/user.png" Width="25" Height="25"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0, 7, 0, 0">
+                                        <PasswordBox KeyDown="Sign_in_tester_enter" FlowDirection="RightToLeft" x:Name="tester_password" materialDesign:HintAssist.IsFloating="True" materialDesign:HintAssist.Hint="סיסמה" Margin="0, 0, 10, 0" MinWidth="200" HorizontalAlignment="Center" />
+                                        <TextBox KeyDown="Sign_in_tester_enter" Visibility="Collapsed" Text="{Binding ElementName=tester_password, Path=Password, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" FlowDirection="RightToLeft" x:Name="txt_tester_password" materialDesign:HintAssist.IsFloating="True" materialDesign:HintAssist.Hint="סיסמה" Margin="0, 0, 10, 0" MinWidth="200" HorizontalAlignment="Center" />
+                                        <Image Source="images/lock.png" Width="25" Height="25"/>
+                                    </StackPanel>
+                                    <TextBlock x:Name="tester_error_message" Text="מספר זהות או סיסמה שגויים" FontSize="10" TextAlignment="Center" Foreground="#FFD30000" Visibility="Collapsed"/>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                        <TextBlock Text="הצג סיסמה" Margin="10"/>
+                                        <ToggleButton Name="tgb_tester" HorizontalAlignment="Right" Click="Visible_password"/>
+                                    </StackPanel>
+                                    <Button x:Name="log_in_tester" Content="היכנס" Margin="0, 10, 0, 0" ToolTip="היכנס למערכת על מנת לצפות במידע שלך" Click="LogInTester"/>
+                                    <Button Content="הירשם" Margin="0, 10, 0, 0" Background="#FFE5EE91" BorderBrush="#00CDDC39" ToolTip="הירשם כבוחן חדש" Click="StartTesterRegistration"/>
+                                </StackPanel>
+                            </materialDesign:Card>
+                            <Image Source="images/tester.png" Width="130" VerticalAlignment="Top" Margin="0, 10,0, 0">
+                                <Image.Effect>
+                                    <DropShadowEffect Direction="270" Opacity="0.7" ShadowDepth="2"/>
+                                </Image.Effect>
+                            </Image>
+                        </Grid>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel>
+                    <StackPanel>
+                        <TextBlock Text="תלמיד" TextAlignment="Center" FontSize="30" Foreground="White" FontWeight="Bold">
+                            <TextBlock.Effect>
+                                <DropShadowEffect Direction="270" ShadowDepth="3"/>
+                            </TextBlock.Effect>
+                        </TextBlock>
+                        <Grid>
+                            <materialDesign:Card Padding="16" Margin="16, 80, 16, 16" Background="#E6FFFFFF">
+                                <StackPanel HorizontalAlignment="Center" Width="250">
+                                    <Rectangle Height="50"/>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0">
+                                        <TextBox KeyDown="Sign_in_student_enter" FlowDirection="RightToLeft" MaxLength="9" x:Name="trainee_id" materialDesign:HintAssist.IsFloating="True" materialDesign:HintAssist.Hint="מספר זהות" Margin="0, 0, 10, 0" MinWidth="200" TextAlignment="Right"/>
+                                        <Image Source="images/user.png" Width="25" Height="25"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0, 7, 0, 0">
+                                        <PasswordBox KeyDown="Sign_in_student_enter" FlowDirection="RightToLeft" x:Name="student_password" materialDesign:HintAssist.IsFloating="True" materialDesign:HintAssist.Hint="סיסמה" Margin="0, 0, 10, 0" MinWidth="200" HorizontalAlignment="Center" />
+                                        <TextBox x:Name="txt_student_password" Text="{Binding ElementName=student_password, Path=Password, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Visibility="Collapsed" KeyDown="Sign_in_student_enter" FlowDirection="RightToLeft" materialDesign:HintAssist.IsFloating="True" materialDesign:HintAssist.Hint="סיסמה" Margin="0, 0, 10, 0" MinWidth="200" HorizontalAlignment="Center" />
+                                        <Image Source="images/lock.png" Width="25" Height="25"/>
+                                    </StackPanel>
+                                    <TextBlock x:Name="student_error_message" Text="מספר זהות או סיסמה שגויים" FontSize="10" TextAlignment="Center" Foreground="#FFD30000" Visibility="Collapsed"/>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                        <TextBlock Text="הצג סיסמה" Margin="10"/>
+                                        <ToggleButton Name="tgb_student" HorizontalAlignment="Right" Click="Visible_password"/>
+                                    </StackPanel>
+                                    <Button x:Name="log_in_student" Content="היכנס" Margin="0, 10, 0, 0" Click="LogInStudent" ToolTip="היכנס למערכת על מנת לצפות במידע שלך"/>
+                                    <Button Content="הירשם" Margin="0, 10, 0, 0" Background="#FFE5EE91" BorderBrush="#00CDDC39" Click="StartStudentRegistration" ToolTip="הירשם כתלמיד חדש"/>
+                                </StackPanel>
+                            </materialDesign:Card>
+                            <Image Source="images/student.png" Width="130" VerticalAlignment="Top" Margin="0, 10,0, 0">
+                                <Image.Effect>
+                                    <DropShadowEffect Direction="270" Opacity="0.7" ShadowDepth="2"/>
+                                </Image.Effect>
+                            </Image>
+                        </Grid>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <materialDesign:Card Margin="0 5 0 0" Width="597" Padding="5" Background="#E6FFFFFF">
+                <StackPanel HorizontalAlignment="Center">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 0 0 2">
+                    <TextBlock Margin="5" Text="התחבר כעובד משרד" VerticalAlignment="Center" FontSize="15"/>
+                    <materialDesign:PackIcon Kind="SecurityAccount" VerticalAlignment="Center" Width="25" Height="25"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <materialDesign:ColorZone VerticalAlignment="Center" FlowDirection="RightToLeft" Mode="Standard" Padding="8 4 8 4" CornerRadius="2" Panel.ZIndex="1" Margin="5 0 0 0" materialDesign:ShadowAssist.ShadowDepth="Depth1">
+                            <PasswordBox x:Name="worker_password" materialDesign:HintAssist.Hint="סיסמה" materialDesign:TextFieldAssist.DecorationVisibility="Hidden" BorderThickness="0" MinWidth="200" VerticalAlignment="Center" PasswordChanged="Log_in_worker_Click"/>
+                    </materialDesign:ColorZone>
+                </StackPanel>
+                </StackPanel>
+            </materialDesign:Card>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="PLWPF.ChartComponent"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PLWPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <Storyboard x:Key="start_height">
+            <DoubleAnimation
+                Storyboard.TargetName="chart_height"
+                Storyboard.TargetProperty="(Border.Height)"
+                From="0" Duration="0:0:1"/>
+        </Storyboard>
+        <SolidColorBrush x:Key="color" Color="Black"/>
+    </UserControl.Resources>
+    
+    <StackPanel VerticalAlignment="Bottom" Margin="5 0">
+
+        <TextBlock x:Name="txb_value" Text="225" HorizontalAlignment="Center" FontSize="15" Foreground="{DynamicResource color}" Background="{x:Null}"/>
+        <Border x:Name="chart_height" BorderThickness="1" CornerRadius="10, 10, 0, 0" Background="{DynamicResource color}" Height="115.38" Width="50" VerticalAlignment="Bottom"></Border>
+        <TextBlock x:Name="txb_label" Text="רכב פרטי" HorizontalAlignment="Center" FontSize="15" Foreground="{DynamicResource color}" FontWeight="DemiBold" Background="{x:Null}"/>
+
+    </StackPanel>
+</UserControl>

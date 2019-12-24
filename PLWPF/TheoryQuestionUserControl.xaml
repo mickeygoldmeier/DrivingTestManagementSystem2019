@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="PLWPF.TheoryQuestionUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PLWPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <StackPanel HorizontalAlignment="Center">
+        
+
+        <Image Name="question_image" MaxHeight="200" Visibility="Collapsed" Stretch="Uniform"/>
+        <TextBlock  Name="questin" FlowDirection="RightToLeft" Grid.Column="1" TextAlignment="Right" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="15" FontSize="20" TextWrapping="Wrap"/>
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <RadioButton Name="option1" FlowDirection="RightToLeft" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10, 5" FontSize="15"/>
+            <RadioButton Name="option2" FlowDirection="RightToLeft" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10, 5" FontSize="15"/>
+            <RadioButton Name="option3" FlowDirection="RightToLeft" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10, 5" FontSize="15"/>
+            <RadioButton Name="option4" FlowDirection="RightToLeft" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10, 5" FontSize="15"/>
+        </StackPanel>
+    </StackPanel>
+</UserControl>
