@@ -109,3 +109,44 @@ On this screen, the system employee can add a theory question to the repository 
 The insert is made by entering the question itself, the correct answer, and 3 incorrect answers. She returned to the picture.
 ![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/New%20question%20edit%201.png?raw=true)
 ![enter image description here](https://github.com/nmanor/DrivingTestManagementSystem2019/blob/master/Screenshots/New%20question%20edit%202.png?raw=true)
+
+
+## Appendices
+ Overall the system stores all the data it uses in 5 different XML files.
+
+### Student file - TraineePath
+In this file, all students are saved in the following format:
+|  | ```xml
+<Traniee>
+<ID>987654321</ID>
+<Last_name>ישראלי</Last_name>
+<First_name>ישראל</First_name>
+<Birth_date>
+<Day>20</Day>
+<Month>8</Month>
+<Year>1999</Year>
+</Birth_date>
+<Gender>0</Gender>
+<Phone>087654673</Phone>
+<Address>
+<City>ירושלים</City>
+<Building_number>21</Building_number>
+<Street>הועד הלאומי</Street>
+</Address>
+<Pass_theory>True</Pass_theory>
+<Last_theory>
+22/01/2019 13:18:56
+</Last_theory>
+<Gear_used>0</Gear_used>
+<Learned>0</Learned>
+<Driving_school>
+נוסעים על בטוח
+</Driving_school>
+<Teachers_name>עומרי</Teachers_name>
+<Num_of_classes>21</Num_of_classes>
+<Password>B7sHVwfzB</Password>
+<Email>example@gmail.com</Email>
+</Traniee>
+``` |
+|--|--|
+
